@@ -1,0 +1,19 @@
+# 临时文件
+temp/
+*.tmp
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 环境/配置（如有）
+.env
+*.pem
+
+# 大型二进制文件（如有）
+*.zip
+*.tar.gz
+
+# 扣子系统文件（建议本地保留，不上传）
+memory/
